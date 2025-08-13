@@ -1,0 +1,15 @@
+{
+  "name": "Festy Graphics",
+  "description": "Hire me for professional graphic design, NFT branding, and creative services.",
+  "icon_url": "https://i.postimg.cc/GhKRK75z/Festy-Logo1.png",
+  "splash_url": "https://i.postimg.cc/XJ7b5wVX/Screenshot-11.png",
+  "splash_background_color": "#800080",
+  "screenshots": [
+    "https://i.postimg.cc/XJ7b5wVX/Screenshot-11.png"
+  ],
+  "website_url": "https://actionable-fall-9802.glide.page",
+  "app_url": "https://actionable-fall-9802.glide.page",
+  "categories": ["Graphic Design", "NFT Art", "Branding"],
+  "marketing_tags": ["Premium Design Services", "NFT Branding Expert", "Creative Branding Solutions"],
+  "button_title": "Hire Me"
+}
