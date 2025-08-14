@@ -4,9 +4,8 @@
   "icon_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Festy%20Logo1.png",
   "splash_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot%20(11).png",
   "splash_background_color": "#800080",
-  "screenshots": [
-    "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot%20(11).png"
-  ],
+  "screenshots": ["https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot%20(11).png"
+],
   "website_url": "https://actionable-fall-9802.glide.page",
   "app_url": "https://actionable-fall-9802.glide.page",
   "categories": ["Productivity"],
