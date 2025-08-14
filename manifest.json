@@ -1,5 +1,5 @@
 {
-  "name": "Festy Graphics",
+  "name": "DesignMint Studio",
   "description": "Hire me for professional graphic design, NFT branding, and creative services.",
   "icon_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Festy%20Logo1.png",
   "splash_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot%20(11).png",
@@ -9,7 +9,7 @@
   ],
   "website_url": "https://actionable-fall-9802.glide.page",
   "app_url": "https://actionable-fall-9802.glide.page",
-  "categories": ["Graphic Design", "NFT Art", "Branding"],
+  "categories": ["Productivity"],
   "marketing_tags": ["Premium Design Services", "NFT Branding Expert", "Creative Branding Solutions"],
   "button_title": "Hire Me"
 }
