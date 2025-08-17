@@ -2,16 +2,15 @@
   "id": "designmint-studio",
   "name": "DesignMint Studio",
   "description": "Hire me for professional graphic design, NFT branding, and creative services.",
-  "icon_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Festy%20Logo1.png",
-  "splash_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot%20(11).png",
+  "icon_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Festy-Logo1.png",
+  "splash_url": "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot.png",
   "splash_background_color": "#800080",
   "screenshots": [
-    "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot%20(11).png"
+    "https://raw.githubusercontent.com/Festygraphics/Manifest-Farcaster-mini-app/main/Screenshot-11.png"
   ],
-  "website_url": "https://actionable-fall-9802.glide.page",
   "url": "https://actionable-fall-9802.glide.page",
   "categories": ["productivity"],
   "marketing_tags": ["design", "branding", "nft"],
   "button_title": "Hire Me",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
